@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-21_0005",
+    "name": "DOPEaMEAN",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -14,7 +14,7 @@
         "dangerColor": "#c1c1c1",
         "mainFont": "Rubik",
         "display1Font": "Roboto",
-        "display1Size": "4",
+        "display1Size": "3.9",
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Rubik",
@@ -23,8 +23,8 @@
         "display7Size": 1,
         "display4Font": "Rubik",
         "display4Size": 1,
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
@@ -35,7 +35,12 @@
     "versionFirst": "4.7.2",
     "uniqCompNum": 6,
     "versionPublish": "4.7.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logodraft1black-128x80.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
