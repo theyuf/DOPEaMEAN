@@ -130,7 +130,7 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".inner-container": {
               "margin": "0 auto"
