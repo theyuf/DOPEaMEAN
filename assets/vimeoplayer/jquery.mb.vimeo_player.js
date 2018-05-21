@@ -45,7 +45,7 @@ var get_vimeo_videoID = function( url ) {
 			startAt: 0,
 			stopAt: 0,
 			autoPlay: true,
-			vol: 50, // 1 to 100
+			vol: 100, // 1 to 100
 			addRaster: false,
 			opacity: 1,
 			mute: false,
