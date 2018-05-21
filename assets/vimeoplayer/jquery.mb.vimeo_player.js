@@ -45,7 +45,7 @@ var get_vimeo_videoID = function( url ) {
 			startAt: 0,
 			stopAt: 0,
 			autoPlay: true,
-			vol: 100, // 1 to 100
+			vol: 50, // 1 to 100
 			addRaster: false,
 			opacity: 1,
 			mute: false,
@@ -572,13 +572,13 @@ var get_vimeo_videoID = function( url ) {
 		},
 
 		mute: function() {
-			var vimeo_player = this.get( 100 );
+			var vimeo_player = this.get( 0 );
 			if( vimeo_player.isMute )
 				return;
 			vimeo_player.isMute = true;
-			vimeo_player.player.setVolume( 100 );
+			vimeo_player.player.setVolume( 0 );
 			if( vimeo_player.volumeBar && vimeo_player.volumeBar.length && vimeo_player.volumeBar.width() > 10 ) {
-				vimeo_player.volumeBar.updateSliderVal( 100 );
+				vimeo_player.volumeBar.updateSliderVal( 0 );
 			}
 			var controls = jQuery( "#controlBar_" + vimeo_player.id );
 			var muteBtn = controls.find( ".vimeo_player_muteUnmute" );
