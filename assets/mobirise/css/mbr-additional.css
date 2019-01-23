@@ -1395,13 +1395,13 @@ body {
   }
 }
 .cid-qSDLMDGLse {
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 75px;
+  padding-bottom: 105px;
   background-color: #000000;
 }
 .cid-qSDn5A5fEY {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #000000;
 }
 .cid-qSDn5A5fEY .line {
@@ -1512,4 +1512,7 @@ body {
   .cid-r9hWUyyh3S .period {
     font-size: 0.8rem;
   }
+}
+.cid-r9hWUyyh3S .mbr-section-subtitle B {
+  color: #ccff00;
 }
