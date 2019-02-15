@@ -59,7 +59,9 @@
       }
     ],
     "gdpr": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "witsec-white-label": "on",
+    "сanonical-url": "<linkrel=\"canonical\"href=\"https://www.dopeamean.co.uk/index.html\">"
   },
   "pages": {
     "index.html": {
