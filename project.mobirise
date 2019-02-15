@@ -309,7 +309,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#ccff00"
             },
             ".formoid": {
               "margin": "auto"
