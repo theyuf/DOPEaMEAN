@@ -43,9 +43,9 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "",
     "siteUrl": "http://dopeamean.co.uk",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
@@ -61,14 +61,14 @@
     "gdpr": "",
     "sitemapSwitcher": "on",
     "witsec-white-label": "on",
-    "сanonical-url": "<linkrel=\"canonical\"href=\"https://www.dopeamean.co.uk/index.html\">"
+    "сanonical-url": "http://<linkrel="
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "DOPEaMEAN - // be out of place",
-        "meta_descr": "DOPEaMEAN is a high end streetwear brand based in the United Kingdom.\n\n\n",
+        "meta_descr": "DOPEaMEAN is a high end streetwear brand based in the United Kingdom.\n\n\nDOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN DOPEaMEAN DOPEAMEAN ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
